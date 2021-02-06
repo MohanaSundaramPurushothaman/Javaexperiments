@@ -10,7 +10,7 @@ public class EmployeeMain {
 	}
 
 	void run() {
-		Employee employee[] = new Employee[4];
+		Employee employeestore[] = new Employee[4];
 		Department devdepartment = new Department("Dev1", "Developing Dept");
 		Department testingdepartment = new Department("Test1", "Testing Dept");
 
@@ -19,13 +19,13 @@ public class EmployeeMain {
 		Tester Testing_employee1 = new Tester(798, "shivam", testingdepartment, "TestNG");
 		Tester Testing_employee2 = new Tester(987, "Vijay", testingdepartment, "Junit");
 
-		employee[0] = Dev_employee1;
-		employee[1] = Dev_employee2;
-		employee[2] = Testing_employee1;
-		employee[3] = Testing_employee2;
+		employeestore[0] = Dev_employee1;
+		employeestore[1] = Dev_employee2;
+		employeestore[2] = Testing_employee1;
+		employeestore[3] = Testing_employee2;
 
-		for (int j = 0; j < employee.length; j++) {
-			Employee iteratedemployee = employee[j];
+		for (int j = 0; j < employeestore.length; j++) {
+			Employee iteratedemployee = employeestore[j];
 			boolean isadeveloper = iteratedemployee instanceof Developer;
 			if (isadeveloper) {
 				Developer Dev_employee = (Developer) iteratedemployee;
