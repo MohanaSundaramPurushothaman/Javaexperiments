@@ -7,7 +7,6 @@ Marketplace
 Explore
  
 @MohanaSundaramPurushothaman 
-vineetsemwal
 /
 cg-javareact-2021-ls
 2
@@ -21,7 +20,7 @@ Wiki
 Security
 Insights
 cg-javareact-2021-ls/.gitignore
-@vineetsemwal
+@MohanaSundaramPurushothaman
 vineetsemwal first commit
 Latest commit 83c304d 6 days ago
  History
