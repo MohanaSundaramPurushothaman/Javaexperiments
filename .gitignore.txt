@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@MohanaSundaramPurushothaman 
-/
-cg-javareact-2021-ls
-2
-20
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-cg-javareact-2021-ls/.gitignore
-@MohanaSundaramPurushothaman
-vineetsemwal first commit
-Latest commit 83c304d 6 days ago
- History
- 1 contributor
-184 lines (142 sloc)  2.92 KB
-  
 # Compiled class file
 *.class
 
@@ -211,15 +182,3 @@ local.properties
 !*/target/generated-sources/
 
 #!*/target/generated-sources/**
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
